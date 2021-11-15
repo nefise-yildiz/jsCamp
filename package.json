@@ -11,9 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "es6-module-loader": "^0.17.11",
+    "node.js": "0.0.1-security",
     "traceur": "0.0.108"
   },
   "devDependencies": {
-    "lite-server": "^2.2.0"
+    "lite-server": "^2.6.1"
   }
 }
